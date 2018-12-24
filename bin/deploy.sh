@@ -1,3 +1,4 @@
+#!/bin/bash
 #install virtualenv
 pip install virtualenv
 #pip install -i http://mirrors.tencentyun.com/pypi/simple --trusted-host mirrors.tencentyun.com virtualenv
